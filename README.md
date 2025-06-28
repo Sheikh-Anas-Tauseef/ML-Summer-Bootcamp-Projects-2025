@@ -10,7 +10,7 @@ This repository serves as:
 - A collection of weekly notebooks, Kaggle solutions, and final projects.
 - A record of consistent skill development using industry-standard tools.
 
---
+---
 
 ## 📅 Roadmap Overview
 
