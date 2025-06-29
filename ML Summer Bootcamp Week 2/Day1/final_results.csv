@@ -1,0 +1,6 @@
+ID,Name,Department,Age,Python_Score,ML_Score,AI_Score,Total_Score,Result
+101,Ayesha,CS,21,85.0,90.0,0.0,0.0,Fail
+102,Ali,IT,22,78.0,0.0,88.0,0.0,Fail
+103,Sara,CS,20,92.0,95.0,94.0,281.0,Pass
+104,John,SE,23,0.0,88.0,84.0,0.0,Fail
+105,Omer,CS,24,69.0,75.0,72.0,216.0,Fail
