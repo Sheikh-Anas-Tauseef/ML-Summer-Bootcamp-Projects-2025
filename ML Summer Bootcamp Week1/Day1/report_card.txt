@@ -1,7 +1,0 @@
-Name: anas
-Age: 18
-Math: 23.0
-English: 11.0
-Urdu: 12.0
-Average: 15.33
-Grade: F

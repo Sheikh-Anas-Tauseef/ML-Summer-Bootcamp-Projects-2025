@@ -1,8 +1,0 @@
-Report Card:
-Name: anas
-Age: 18
-Math: 100
-English: 92
-Urdu: 72
-Average: 88.00
-Grade: A
